@@ -2,6 +2,10 @@
 
 A simple time-tracking application built with **Vue 3**, **Vite**, **Tailwind CSS**, and **Pinia**. This app allows you to start, pause, resume, and stop tasks with automatic time logging stored in your browser's local storage — no backend required.
 
+## 📸 Preview
+
+![Time Tracker Preview](./public/preview-timer.png)
+
 ## 🖼️ Features
 
 - ✅ Start/Pause/Resume/Stop task timers
